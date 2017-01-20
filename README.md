@@ -211,7 +211,7 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
 ## Don't feel you aren't smart enough
 - [X] Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
 - [X] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [X] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## About Google
 
